@@ -1,5 +1,5 @@
-# Add your project dependencies here
-# Example:
-# numpy
-# pandas
-# requests
+openai
+Pillow
+requests
+google-generativeai
+json5
