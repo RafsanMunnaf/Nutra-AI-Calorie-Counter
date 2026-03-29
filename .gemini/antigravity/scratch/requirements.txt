@@ -1,0 +1,5 @@
+# Add your project dependencies here
+# Example:
+# numpy
+# pandas
+# requests
